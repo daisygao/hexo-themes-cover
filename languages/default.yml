@@ -1,14 +1,14 @@
-categories: Categories
-search: Search
-tags: Tags
-tagcloud: Tag Cloud
-tweets: Tweets
-prev: Prev
-next: Next
-newer: Next
-older: Prev
-comment: Comments
-archive_a: Archives
-archive_b: Archives: %s
-page: Page %d
-recent_posts: Recent Posts
+categories: "Categories"
+search: "Search"
+tags: "Tags"
+tagcloud: "Tag Cloud"
+tweets: "Tweets"
+prev: "Prev"
+next: "Next"
+newer: "Next"
+older: "Prev"
+comment: "Comments"
+archive_a: "Archives"
+archive_b: "Archives: %s"
+page: "Page %d"
+recent_posts: "Recent Posts"
