@@ -1,17 +1,3 @@
-<<<<<<< HEAD
-categories: Kategorien
-search: Suche
-tags: Tags
-tagcloud: Tag-Cloud
-tweets: Tweets
-prev: Vorherige Seite
-next: Nächste Seite
-comment: Kommentare
-archive_a: Archiv
-archive_b: "Archiv: %s"
-page: "Seite %d"
-recent_posts: "Neueste Artikel"
-=======
 categories: 'Kategorien'
 search: 'Suche'
 tags: 'Tags'
@@ -24,4 +10,3 @@ archive_a: 'Archiv'
 archive_b: 'Archiv: %s'
 page: 'Seite %d'
 recent_posts: 'Neueste Artikel'
->>>>>>> 3d1392fb3efd0cd37451ea701b3597f3cd8ab258
